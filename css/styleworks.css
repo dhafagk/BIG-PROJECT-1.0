@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+nav{
+	background: #fff !important;
+}
+
+ul li{
+	font-family: sans-serif !important;
+	font-weight: bold !important;
+}
+
+.brand-logo{
+	margin-top: 10px !important;
+}
+
+.fuck-this-shit{
+	background: url(../img/hyouka-large.jpg);
+}
+
+a{
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.bunderan-hi{
+    width: 100%;
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+}
+
+.bunderan-hi img{
+	margin-left: 130px !important;
+}
+
+ul[data-pie-id] li:nth-child(1) {
+  color: red;
+}
+
+ul[data-pie-id] li:nth-child(2) {
+  color: red;
+}
+
+ul[data-pie-id] li:nth-child(3) {
+  color: yellow;
+}
+
+footer.page-footer{
+	background-color: #c62828 !important;
+}

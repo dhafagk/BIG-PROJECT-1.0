@@ -1,0 +1,186 @@
+body{
+	margin: 0px;
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+nav{
+	background: #fff !important;
+}
+
+ul li{
+	font-family: sans-serif !important;
+	font-weight: bold !important;
+}
+
+h1{
+	margin: 25px 0px 10px 20px;
+	color: #e74c3c;
+}
+
+h3, {
+	font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+	font-style: italic;
+	color: #009;
+	text-align: center;
+}
+
+.brand-logo{
+	margin-top: 10px !important;
+}
+
+.fuck-this-shit{
+	background: url(../img/hyouka-large.jpg);
+}
+
+.constaikor{
+	margin: 0px;
+	background: #ecf0f1;
+}
+
+footer.page-footer{
+	background-color: #c62828 !important;
+}
+
+.section-header {
+    position: relative;
+    margin: 30px 10px 20px 10px;
+}
+
+.section-header.m-header {
+    margin: 25px 10px 15px 10px;
+}
+
+.section-header .title {
+    display: inline-block;
+}
+
+.section-header .title span {
+    font-size: 36px;
+    font-weight: 200;
+    line-height: 44px;
+    color: #ec2028;
+    letter-spacing: -1px;
+}
+
+.section-header.l-header .title span {
+    font-size: 44px;
+    line-height: 52px;
+}
+
+.section-header.m-header .title span {
+    font-size: 32px;
+    line-height: 36px;
+}
+
+.section-header a.title:hover span {
+    color: #202020;
+}
+
+.section-header .header-action-link {
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+.section-header .header-action-link .action-link {
+    display: inline-block;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.section-header .header-action-link .action-link a,
+.section-header .header-action-link .action-link span {
+    display: inline-block;
+    padding: 8px 16px;
+    margin-left: 5px;
+    font-size: 11px;
+    font-weight: 700;
+    line-height: 14px;
+    color: #ec2028;
+    text-align: center;
+    text-transform: uppercase;
+    white-space: pre;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+}
+
+.section-header .header-action-link .action-link a {
+    border: 1px solid #ec2028;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.section-header .header-action-link .action-link a.last i,
+.section-header .header-action-link .action-link a.nextpostslink i,
+.section-header .header-action-link .action-link a i.icon-right-open-mini {
+    margin-right: -8px;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.section-header .header-action-link .action-link a.first i,
+.section-header .header-action-link .action-link a.previouspostslink i,
+.section-header .header-action-link .action-link a i.icon-left-open-mini {
+    margin-left: -8px;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.section-header .header-action-link .action-link a.page,
+.section-header .header-action-link .action-link span.current {
+    padding: 8px 12px;
+    min-width: 32px;
+    min-height: 32px;
+}
+
+.section-header .header-action-link .action-link a.more i {
+    margin-right: -8px;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.section-header .header-action-link .action-link a:hover {
+    background: #ec2028;
+    color: #fff;
+}
+
+.section-header .header-action-link .action-link span.current {
+    border: 1px solid #ccc;
+    color: #ccc;
+}
+
+.main-content{
+    display: block;
+    margin-right: 5px;
+    padding-top: 10px;
+	margin-bottom:30px;
+    position: relative;
+    width: 100%;
+}
+
+.content-detail{
+	margin-top:10px;
+	background-color: #fff;
+}
+
+.thumbnail{
+	min-height: 354px;
+}
+
+.thumbnail img{
+	height: 160px;
+	width: 100%;
+}
+
+.caption a{
+	font-size:16px;
+	font-weight:bold;
+	color:#ec2028;
+}
+
+.caption p{
+	margin-top: 10px;
+}

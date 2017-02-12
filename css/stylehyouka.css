@@ -1,0 +1,292 @@
+body{
+	margin: 0px;
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+	background-color:#F6F6F6;
+}
+
+nav{
+	background: #fff !important;
+}
+
+ul li{
+	font-family: sans-serif !important;
+	font-weight: bold !important;
+}
+
+h3{
+	color: #c62828;
+}
+
+.wrapper > h1 { text-align: center; }
+
+.wrapper > h1 span {
+  border-bottom: 2px solid #49a4d9;
+  display: inline-block;
+  padding: 0 10px 10px;
+  color: #49a4d9;
+  transition: all 0.5s linear;
+}
+
+ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.clear{
+	clear:both;
+}
+
+.brand-logo{
+	margin-top: 10px !important;
+}
+
+.example {
+    padding: 0em;
+    margin: 40px 100px 0px 100px;
+}
+
+ol{
+	background-color: transparent !important;
+}
+
+.conjuring {
+    margin: 0px 100px;
+}
+
+.kiri, .kanan{
+    display: block;
+    margin-right: 5px;
+    padding-top: 10px;
+	margin-bottom:30px;
+    position: relative;
+    width: 100%;
+}
+
+.gambar{
+	width:100%;
+}
+
+.gambar img{
+    border: 1px solid #ddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px;
+    width: 232px;
+}
+
+.info b{
+	color: #565656;
+}
+
+.info{
+	line-height:160%;
+}
+
+.judul {
+    border-bottom: 1px solid #ddd;
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-bottom: 2px;
+}
+
+.bagikan{
+    font-size: 17px;
+    font-weight: bold;
+    padding: 0 0 5px;
+}
+
+.anime-char-list .anime-img{
+	width:40px;
+}
+
+.anime-char-list{
+	float:left;
+	width:100%;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #f1f1f1;
+	padding-bottom:5px;
+}
+
+.anime-char-list:hover{
+	background-color:#F4F4F4;
+}
+
+.anime-char-list .char-img{
+    border: 1px solid #ddd;
+    float: left;
+    margin: 3px;
+    padding: 1px;
+    width: 40px;
+}
+
+small{
+	font-size: 13px;
+}
+
+.char-info {
+    padding-left: 2px;
+    width: 76%;
+}
+
+.char-info .char-name {
+    font-weight: bold;
+}
+
+.char-img {
+    float: left;
+    margin: 5px 3.5px;
+    width: 50px;
+}
+
+.quote-header .char-img{
+	width:60px;
+}
+
+.char-img img{
+    border: 1px solid #ddd;
+    height: auto;
+    padding: 2px;
+    width: 100%;
+}
+
+.char-name a{
+	color:#337ab7;
+	font-size: 13px;
+}
+
+.char-name a:hover{
+	color:#23527c;
+	text-decoration:none;
+}
+
+.char-seiyuu-list{
+	font-size: 13px;
+}
+
+.seiyuu-info{
+	float:right;
+	width:50%;
+}
+
+.seiyuu-info .seiyuu-detail{
+	width: 100%; 
+	text-align: right; 
+	padding-right: 50px;
+}
+
+.seiyuu-img{
+	margin: 5px 3.5px;
+}
+
+.seiyuu-img img {
+    border: 1px solid #ddd;
+    height: auto;
+    padding: 2px;
+    width: 100%;
+}
+
+.seiyuu-name a{
+	color:#337ab7;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.seiyuu-name a:hover{
+	color:#23527c;
+	text-decoration:none;
+}
+
+.bg-trailer{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
+.title-trailer{
+	font-size: 20px;
+    color: #484848;
+    top: 0;
+    width: 100%;
+}
+
+.embed img{
+	border-radius: 0px !important;
+	width: 750px;
+	height: 500px;
+}
+
+video{
+	width: 100%;
+	height: 100%;
+}
+
+a {
+    color: #c62828;
+    text-decoration: none !important;
+    font-family:    sans-serif;     
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer.page-footer{
+	background-color: #c62828 !important;
+}
+
+.share-items {
+    padding:10px;
+    border-bottom:0px dotted #222;
+}
+
+.share-links a {
+	margin: 0px 5px 10px 5px;
+    padding:10px 15px;
+    border-radius:3px;
+    color:#fff;
+    text-decoration: none;
+    display:inline-block;
+    float: left;
+}
+
+@media (max-width:640px) {
+    .share-links a {
+        margin-bottom:15px;
+    }
+}
+
+.twitterBtn {
+    background-color: #4099FF;
+}
+
+.twitterBtn:hover {
+    background-color: #5FA5F5;
+}
+
+.facebookBtn {
+    background-color: #3b5998;
+}
+
+.facebookBtn:hover {
+    background-color: #5171B3;
+}
+
+.linkedinBtn {
+    background-color: #0077B5;
+}
+
+.linkedinBtn:hover {
+    background-color: #2886B7;
+}
+
+.googleBtn {
+    background-color: #d34836;
+}
+
+.googleBtn:hover {
+   background-color: #D66050;
+}

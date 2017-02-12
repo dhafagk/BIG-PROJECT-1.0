@@ -1,0 +1,150 @@
+body{
+	margin: 0px;
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+nav{
+	background: #fff !important;
+}
+
+ul li{
+	font-family: sans-serif !important;
+	font-weight: bold !important;
+}
+
+h1{
+	margin: 25px 0px 10px 20px;
+	color: #e74c3c;
+}
+
+h1{
+	color: #000;
+	text-align: justify;
+}
+
+h3, h4{
+	color: #c62828;
+}
+
+.brand-logo{
+	margin-top: 10px !important;
+}
+
+.header{
+	margin: 0px 150px;
+	margin-bottom: 20px;
+}
+
+.conjuring{
+	margin: 0px 165px;
+}
+
+.tanggal{
+	float: right;
+}
+
+.sare{
+	margin-top: 10px;
+}
+
+.smpl-share {
+    width: 165px;
+    margin: 18px 0px 0px 5px;
+        }
+
+.item {
+	float: left;
+	margin-right: 15px;
+}
+
+.item:last-child {
+    margin-right: 0;
+}
+
+.gambar-header img{
+	max-width: 750px;
+}
+
+.isi-content{
+	min-width: 750px;
+	padding: 0px;
+}
+
+.isi-content p{
+	width: 100%;
+	font-size: 17px;
+}
+
+#container {
+    background: #fafafa;
+    color: #555;
+    padding: 0px;
+    margin: 0px auto;
+    max-width: 880px;
+    display: block;
+}
+
+.kanan{
+	margin-left: 800px;
+}
+
+.news{
+	overflow: hidden;
+}
+
+.bagikan{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.share-links a {
+	margin: 0px 5px 10px 5px;
+    padding:10px 15px;
+    border-radius:3px;
+    color:#fff;
+    text-decoration: none;
+    display:inline-block;
+    float: left;
+}
+
+@media (max-width:640px) {
+    .share-links a {
+        margin-bottom:15px;
+    }
+}
+
+.twitterBtn {
+    background-color: #4099FF;
+}
+
+.twitterBtn:hover {
+    background-color: #5FA5F5;
+}
+
+.facebookBtn {
+    background-color: #3b5998;
+}
+
+.facebookBtn:hover {
+    background-color: #5171B3;
+}
+
+.linkedinBtn {
+    background-color: #0077B5;
+}
+
+.linkedinBtn:hover {
+    background-color: #2886B7;
+}
+
+.googleBtn {
+    background-color: #d34836;
+}
+
+.googleBtn:hover {
+   background-color: #D66050;
+}
+
+footer.page-footer{
+	background-color: #c62828 !important;
+}

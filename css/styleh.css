@@ -1,0 +1,162 @@
+body{
+	margin: 0px;
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+nav{
+	background: #c62828 !important;
+}
+
+thead{
+	border-bottom:1px solid red !important;
+}
+
+td,th{
+	padding:15px 5px !important;
+	display:table-cell;text-align:left;
+	vertical-align:middle;
+	border-radius:2px;
+}
+
+th{
+	border-bottom: 1px solid grey !important;
+}
+
+p{
+	font-size: 17px;
+	margin-right: 10px;
+}
+
+h2{
+	color: #c62828 !important;
+}
+
+.wow{
+	text-align: center;
+}
+
+h4{
+	color: #c62828;
+}
+
+.anime-char-list .anime-img{
+	width:40px;
+}
+
+.anime-char-list{
+	float:left;
+	width:100%;
+	margin-bottom: 5px;border-bottom: 1px solid #f1f1f1;padding-bottom:5px;
+}
+
+.anime-char-list:hover{
+	background-color:#F4F4F4;
+}
+
+.anime-char-list .char-img{
+    border: 1px solid #ddd;
+    float: left;
+    margin: 5px;
+    padding: 1px;
+    width: 40px;
+}
+
+.char-info {
+    padding-left: 2px;
+    width: 76%;
+}
+.char-info .char-name {
+    font-weight: bold;
+}
+
+.char-img {
+    float: left;
+    margin: 3px 3.5px;
+    width: 50px;
+}
+
+.char-img img{
+    border: 1px solid #ddd;
+    height: auto;
+    padding: 2px;
+    width: 100%;
+}
+
+.char-name a{
+	color:#337ab7;
+	font-size: 15px;
+}
+
+.char-name a:hover{
+	color:#23527c;
+	text-decoration:none;
+}
+
+.seiyuu-info{
+	float:right;
+	width:50%;
+}
+
+.seiyuu-info .seiyuu-detail{
+	width: 100%; 
+	text-align: right; 
+	padding-right: 50px;
+}
+
+.seiyuu-img img {
+    border: 1px solid #ddd;
+    height: auto;
+    padding: 0px;
+    width: 100%;
+    margin: 5px 5px 5px 0px;
+}
+
+.seiyuu-name a{
+	color:#337ab7;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.seiyuu-name a:hover{
+	color:#23527c;
+	text-decoration:none;
+}
+
+.company-char-list{
+	float: left;
+    margin: 5px;
+    padding: 1px;
+}
+
+.company-img img{
+    height: auto;
+    padding: 0px;
+    width: 100%;
+    margin: 5px 5px 5px 0px;
+}
+
+.company-info{
+	float: right;
+	width: 50%;
+}
+
+.company-info .company-detail{
+	width: 100%; 
+	text-align: left; 
+	padding-right: 0px 100px 40px 0px;
+}
+
+.company-name{
+	margin: 0px;
+	padding: 0px 20px 0px 0px;
+}
+
+.toc{
+    position: fixed !important;
+    margin-top: 20%;
+    font-size: 17px;
+}
+
+footer.page-footer{
+	background-color: #c62828 !important;
+}

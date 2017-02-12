@@ -1,0 +1,18 @@
+.treadmill {
+	overflow: hidden;
+  background: transparent;
+  padding:0 20px;
+  height: 350px !important;
+}
+
+.treadmill-unit {
+	overflow: hidden;
+	position: relative;
+	border-bottom: 1px solid #46CFB0;
+}
+
+#news {
+	font-family: arial;
+	color: #000;
+	text-align: left;
+}

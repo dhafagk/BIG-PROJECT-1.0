@@ -1,0 +1,103 @@
+body{
+	margin: 0px;
+	font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+nav{
+	background: #fff !important;
+}
+
+ul li{
+	font-family: sans-serif !important;
+	font-weight: bold !important;
+}
+
+.brand-logo{
+	margin-top: 10px !important;
+}
+
+.wadahdiv-header{
+    padding: 0px;
+}
+
+.wadahdiv{
+    border-color: black;
+}
+
+.con{
+	margin: 0px;
+}
+
+.asd{
+    width: 100%;
+    height: 100%; 
+}
+
+.background{
+	width: 100%;
+	height: 100%;
+}
+
+.shits-on-fire{
+	width: 100%;
+	height: 100%;
+}
+
+video{
+	width: 100%;
+	height: 100%;
+}
+
+a{
+	color: #000;
+	text-decoration: none;
+}
+
+.aw-yeah{
+	font-size: 17px !important;
+}
+
+.text_h2{
+	font-size: 65px !important;
+	margin-bottom: 4% !important;
+}
+
+.ow-shit{
+	font-size: 20px !important;
+	font-weight: bold !important;
+	position: relative !important;
+	color: #000;
+}
+
+.watafak{
+	height: 200px !important;
+	position: relative !important;
+}
+
+img.news-on-shit{
+	width: 100% !important;
+	height: 100% !important;
+}
+
+.apa-yah{
+	width: 430px !important;
+	height: 330px !important;
+}
+
+.apa-yah:hover{
+	color: red !important;
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.megumin-is-love{
+	margin: 100px 0px 100px 0px;
+}
+
+footer.page-footer{
+	background-color: #c62828 !important;
+}
